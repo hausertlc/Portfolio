@@ -1,5 +1,4 @@
--- Data Source:  https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbi1QRHNFdlZRSjMzSTVmNEpuQVdBWFpLWDZad3xBQ3Jtc0tsWEdqSXlKVmxGQ3RyWmd0N2tRenVDeW5QOWNkQ1RBTFhzYWV6VlJkRmU0ZnpfdGRpUllDZmxsSE1nR0I1eGV6MFo1c05IVU91MmRHWS1YT2Fnd3g4X0tKQ1hDTEhDXy1ySlA1VVM3SmJpNHNxaDMyWQ&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM 
-
+-- Data Source: https://ourworldindata.org/covid-deaths
 --Description: Data Exploration of a COVID data set through April 2021
 
 Select *
